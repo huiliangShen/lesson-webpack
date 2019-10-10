@@ -1,0 +1,12 @@
+/*@import './other.scss';
+body {
+    background: #000;
+    img {
+        transform: translate(50px);
+        width: 150px;
+    }
+}*/
+
+p:nth-of-type(odd){
+    background: blue;
+}
